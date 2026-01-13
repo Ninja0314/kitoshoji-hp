@@ -5,7 +5,7 @@ export default function CompanyProfile() {
     { label: "資本金", value: "100万円（準備金含む）" },
     { label: "設立年月日", value: "平成25年10月18日" },
     { label: "従業員数", value: "2名" },
-    { label: "事業内容", value: "不動産の売買、賃貸、仲介、および連続的企業買収による事業運営" },
+    { label: "事業内容", value: "連続的企業買収による事業運営、その他不動産関連事業" },
   ];
 
   return (
