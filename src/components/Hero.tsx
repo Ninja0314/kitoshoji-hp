@@ -9,7 +9,7 @@ export default function Hero() {
           </h1>
           <p className="text-lg md:text-xl text-gray-600 leading-relaxed mb-10 max-w-2xl mx-auto">
             鬼頭商事は、テクノロジーを駆使して労働力不足を解決し、<br className="hidden md:block" />
-            次世代の日本を担う高生産性な事業を創造します。
+            次世代の日本を担う生産性の高い事業を創造します。
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a 

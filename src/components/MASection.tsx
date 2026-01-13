@@ -15,7 +15,7 @@ export default function MASection() {
               ロボットとAIによる<br />事業の再定義
             </h3>
             <p className="text-gray-600 leading-relaxed mb-6">
-              日本の多くの中小企業が直面している「労働力不足」と「技術承継」の課題。
+              日本の多くの中小企業が直面している「労働力不足」と「事業承継」の課題。
               私たちは、これらを課題として捉えるだけでなく、テクノロジーを実装することで
               世界に冠たる生産性の高い事業へと変革するチャンスと捉えています。
             </p>
@@ -25,8 +25,8 @@ export default function MASection() {
                   <Cpu size={24} />
                 </div>
                 <div>
-                  <h4 className="font-bold text-gray-900">AI・ロボットの導入</h4>
-                  <p className="text-sm text-gray-600">ルーチンワークの自動化とAIによる意思決定の高度化。</p>
+                  <h4 className="font-bold text-gray-900">ロボット・AIの導入</h4>
+                  <p className="text-sm text-gray-600">ルーチンワークのロボットによる自動化とAIによる意思決定の高度化。</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
