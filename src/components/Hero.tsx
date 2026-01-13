@@ -16,7 +16,7 @@ export default function Hero() {
               href="#ma-strategy" 
               className="w-full sm:w-auto bg-blue-900 text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-blue-800 transition-all shadow-lg text-center"
             >
-              事業買収について
+              企業買収方針
             </a>
           </div>
         </div>
