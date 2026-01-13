@@ -49,7 +49,7 @@ export default function MASection() {
               </li>
               <li className="border-l-4 border-blue-400 pl-4">
                 <p className="font-bold mb-1">投資ターゲット</p>
-                <p className="text-blue-100 text-sm">事業承継に課題を抱える中小企業を連続的に買収</p>
+                <p className="text-blue-100 text-sm">事業承継に課題を抱える中小企業を連続的に買収（買収後の売却は予定せず）。主にブルーカラー産業といわれる業種が対象</p>
               </li>
               <li className="border-l-4 border-blue-400 pl-4">
                 <p className="font-bold mb-1">バリューアップ方針</p>
