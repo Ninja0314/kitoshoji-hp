@@ -18,12 +18,6 @@ export default function Hero() {
             >
               事業買収について
             </a>
-            <a 
-              href="#contact" 
-              className="w-full sm:w-auto bg-white text-blue-900 border-2 border-blue-900 px-8 py-4 rounded-lg font-bold text-lg hover:bg-blue-50 transition-all text-center"
-            >
-              お問い合わせ
-            </a>
           </div>
         </div>
       </div>

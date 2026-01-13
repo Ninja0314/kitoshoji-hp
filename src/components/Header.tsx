@@ -11,12 +11,6 @@ export default function Header() {
           <Link href="#mission" className="hover:text-blue-700 transition-colors">私たちの使命</Link>
           <Link href="#ma-strategy" className="hover:text-blue-700 transition-colors">事業買収</Link>
           <Link href="#company" className="hover:text-blue-700 transition-colors">会社概要</Link>
-          <Link 
-            href="#contact" 
-            className="bg-blue-900 text-white px-5 py-2 rounded-full hover:bg-blue-800 transition-all shadow-md"
-          >
-            お問い合わせ
-          </Link>
         </nav>
       </div>
     </header>
